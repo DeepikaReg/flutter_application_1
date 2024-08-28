@@ -18,6 +18,10 @@ Tick the boxes (i.e., fill them with 'X's) that apply to your submission:
 
 ## Summary and Reflection
 
-Replace this paragraph with a brief summary of any additional notes that might help us evaluate your submitted work, including what you weren't able to get working correctly.
+As per the given steps from the professor and online resources(youtube),I have installed Flutter SDK and configured accordingly with VScode on my system.
+Additionally I have installed Android Studio and downloaded the SDKS for the required emulator.
 
-Replace this paragraph with notes on what you enjoyed/disliked, found challenging, or wish you had known before starting this MP.
+I created a new flutter project "flutter_application_1" which is a basic flutter application and I have pushed the code to my repository. https://github.com/DeepikaReg/flutter_application_1/tree/main
+I made the required updates to "REPORT.md" and pushed it to github.
+All the while,I felt the process was a bit complex and faced some issues as this was my first time working with Mobile Application Development(CS442),but I found it to be interesting and could definetely sought more ways to further explore the subject. 
+I completed Self-Evaluation Checklist.
